@@ -9,11 +9,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 € €",
 	},
 	{
 		id: "2",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2025/01/04/16/29/musician-9310312__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Nina Alvar",
@@ -21,11 +21,11 @@ const dataMusique = [
 		format: "square",
 		description: "",
 		size_frame: "50cm x 50cm",
-		price: "65",
+		price: "65 €",
 	},
 	{
 		id: "3",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2019/07/08/12/11/singer-4324639_1280.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Ava RAYNE",
@@ -33,11 +33,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "4",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2015/05/07/11/02/guitar-756326_1280.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Guitare Homme",
@@ -45,11 +45,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "5",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2016/08/01/11/28/rock-1560867__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "The Beast",
@@ -57,11 +57,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "6",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2018/06/30/09/29/monkey-3507317_960_720.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Monkey",
@@ -69,11 +69,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "7",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2022/08/02/10/59/piano-7360086_1280.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Piano",
@@ -81,11 +81,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "8",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2019/12/04/05/17/band-4671748_1280.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Slam",
@@ -93,11 +93,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "9",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2022/07/10/01/47/grades-7312021_1280.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Partition",
@@ -105,11 +105,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "10",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2022/08/31/20/47/concert-7424190_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Smoke",
@@ -117,11 +117,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "11",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2017/03/27/13/36/barnett-2178772_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Theo RYKER",
@@ -129,11 +129,11 @@ const dataMusique = [
 		format: "portrait",
 		description: "",
 		size_frame: "50cm x 70cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "12",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2018/04/02/10/04/music-3283431_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Sasha VEYNE",
@@ -141,11 +141,11 @@ const dataMusique = [
 		format: "portrait",
 		description: "",
 		size_frame: "50cm x 70cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "13",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2024/03/18/06/09/ai-generated-8640312__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Old MIC",
@@ -153,11 +153,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "14",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2015/04/17/09/06/music-726962__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Kid Pirates",
@@ -165,11 +165,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "15",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2015/11/17/23/41/show-1048467__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Live in Paris",
@@ -177,11 +177,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "16",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2017/03/27/13/55/action-2178885_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Louis MOREL",
@@ -189,11 +189,11 @@ const dataMusique = [
 		format: "portrait",
 		description: "",
 		size_frame: "50cm x 70cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "17",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2024/07/29/15/11/ai-generated-8929924__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "The Stalactic",
@@ -201,11 +201,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "18",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2019/07/04/16/05/school-of-music-4316845_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Pink MIC",
@@ -213,11 +213,11 @@ const dataMusique = [
 		format: "portrait",
 		description: "",
 		size_frame: "50cm x 70cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "19",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2017/12/27/11/57/human-3042523_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "The Violinist",
@@ -225,11 +225,11 @@ const dataMusique = [
 		format: "portrait",
 		description: "",
 		size_frame: "50cm x 70cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "20",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2024/04/12/02/01/birdie-8690976__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Chicken LORD",
@@ -237,11 +237,11 @@ const dataMusique = [
 		format: "portrait",
 		description: "",
 		size_frame: "50cm x 70cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "21",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2020/08/06/16/35/live-performance-5468469__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "The stage",
@@ -249,11 +249,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "22",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2015/08/30/11/43/violin-914174__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Blue violin",
@@ -261,11 +261,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "23",
-		image:
+		picture:
 			"https://images.piclumen.com/normal/20250107/00/520830dfb8d14b4bafced10c3febaefa.webp",
 		artist_name: "Liam NOVA",
 		name_work: "Autoportait",
@@ -273,11 +273,11 @@ const dataMusique = [
 		format: "square",
 		description: "",
 		size_frame: "50cm x 50cm",
-		price: "65",
+		price: "65 €",
 	},
 	{
 		id: "24",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2016/10/24/18/33/drums-1766888__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Drum",
@@ -285,11 +285,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "25",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2019/06/20/22/52/music-4288102__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Foule",
@@ -297,11 +297,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "26",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2019/10/27/08/55/instruments-4581110__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Guitar",
@@ -309,11 +309,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "27",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2020/05/11/09/01/conductor-5157144__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Opera",
@@ -321,11 +321,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "28",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2020/02/20/20/35/drumset-4865818__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Drum 2",
@@ -333,11 +333,11 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "29",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2020/03/09/01/29/guitarist-4914151_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "The Liquid man",
@@ -345,11 +345,11 @@ const dataMusique = [
 		format: "portrait",
 		description: "",
 		size_frame: "50cm x 70cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "30",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2019/08/12/20/22/jazz-4402082_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Liam NRD",
@@ -357,11 +357,11 @@ const dataMusique = [
 		format: "portrait",
 		description: "",
 		size_frame: "50cm x 70cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "31",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2022/09/17/08/57/concert-7460479__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Angela SPRING",
@@ -369,22 +369,23 @@ const dataMusique = [
 		format: "square",
 		description: "",
 		size_frame: "50cm x 50cm",
-		price: "65",
+		price: "65 €",
 	},
 	{
 		id: "32",
-		image: "https://cdn.pixabay.com/photo/2011/08/23/13/07/audio-9066__340.jpg",
+		picture:
+			"https://cdn.pixabay.com/photo/2011/08/23/13/07/audio-9066__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "DJ",
 		date: "été 2024, Bronx",
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 	{
 		id: "33",
-		image:
+		picture:
 			"https://cdn.pixabay.com/photo/2015/01/19/16/50/concert-604215__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Black man",
@@ -392,7 +393,7 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75",
+		price: "75 €",
 	},
 ];
 
