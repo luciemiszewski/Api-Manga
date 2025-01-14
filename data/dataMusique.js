@@ -110,18 +110,19 @@ const dataMusique = [
 	{
 		id: "10",
 		image:
-			"https://cdn.pixabay.com/photo/2017/03/27/13/36/barnett-2178772_1280.jpg",
+			"https://cdn.pixabay.com/photo/2022/08/31/20/47/concert-7424190_640.jpg",
 		artist_name: "Liam NOVA",
-		name_work: "Theo RYKER",
+		name_work: "Smoke",
 		date: "été 2022, Springfield",
-		format: "portrait",
+		format: "paysage",
 		description: "",
-		size_frame: "50cm x 70cm",
+		size_frame: "70cm x 50cm",
 		price: "75",
 	},
 	{
 		id: "11",
-		image: "https://pixabay.com/fr/photos/barnett-concert-courtney-2178772/",
+		image:
+			"https://cdn.pixabay.com/photo/2017/03/27/13/36/barnett-2178772_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Theo RYKER",
 		date: "été 2022, Springfield",
@@ -133,7 +134,7 @@ const dataMusique = [
 	{
 		id: "12",
 		image:
-			"https://pixabay.com/fr/photos/musique-musicien-un-personnes-3283431/",
+			"https://cdn.pixabay.com/photo/2018/04/02/10/04/music-3283431_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Sasha VEYNE",
 		date: "été 2024, Springfield",
@@ -145,7 +146,7 @@ const dataMusique = [
 	{
 		id: "13",
 		image:
-			"https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-microphone-la-musique-8640312/",
+			"https://cdn.pixabay.com/photo/2024/03/18/06/09/ai-generated-8640312__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Old MIC",
 		date: "été 2024, Houston",
@@ -156,7 +157,8 @@ const dataMusique = [
 	},
 	{
 		id: "14",
-		image: "https://pixabay.com/fr/photos/la-musique-musicien-concert-726962/",
+		image:
+			"https://cdn.pixabay.com/photo/2015/04/17/09/06/music-726962__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Kid Pirates",
 		date: "été 2024, Stockholm",
@@ -168,7 +170,7 @@ const dataMusique = [
 	{
 		id: "15",
 		image:
-			"https://pixabay.com/fr/photos/spectacle-concert-un-%C3%A9v%C3%A9nement-1048467/",
+			"https://cdn.pixabay.com/photo/2015/11/17/23/41/show-1048467__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Live in Paris",
 		date: "été 2024, Paris",
@@ -179,9 +181,10 @@ const dataMusique = [
 	},
 	{
 		id: "16",
-		image: "https://pixabay.com/fr/photos/action-adulte-bande-concert-2178885/",
+		image:
+			"https://cdn.pixabay.com/photo/2017/03/27/13/55/action-2178885_640.jpg",
 		artist_name: "Liam NOVA",
-		name_work: "Elisa MOREL",
+		name_work: "Louis MOREL",
 		date: "été 2024, Paris",
 		format: "portrait",
 		description: "",
@@ -191,7 +194,7 @@ const dataMusique = [
 	{
 		id: "17",
 		image:
-			"https://pixabay.com/fr/illustrations/ai-g%C3%A9n%C3%A9r%C3%A9-groupe-de-rock-la-grotte-8929924/",
+			"https://cdn.pixabay.com/photo/2024/07/29/15/11/ai-generated-8929924__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "The Stalactic",
 		date: "hivers 2024, Dublin",
@@ -203,7 +206,7 @@ const dataMusique = [
 	{
 		id: "18",
 		image:
-			"https://pixabay.com/fr/photos/ecole-de-musique-concert-clarinette-4316845/",
+			"https://cdn.pixabay.com/photo/2019/07/04/16/05/school-of-music-4316845_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Pink MIC",
 		date: "hivers 2023, Copenhague",
@@ -215,7 +218,7 @@ const dataMusique = [
 	{
 		id: "19",
 		image:
-			"https://pixabay.com/fr/photos/gens-adulte-a-musicien-la-musique-3042523/",
+			"https://cdn.pixabay.com/photo/2017/12/27/11/57/human-3042523_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "The Violinist",
 		date: "hivers 2023, Turin",
@@ -227,7 +230,7 @@ const dataMusique = [
 	{
 		id: "20",
 		image:
-			"https://pixabay.com/fr/illustrations/oiseau-chanteur-concert-musique-8690976/",
+			"https://cdn.pixabay.com/photo/2024/04/12/02/01/birdie-8690976__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Chicken LORD",
 		date: "printemps 2023, WildCodeSchool",
@@ -239,7 +242,7 @@ const dataMusique = [
 	{
 		id: "21",
 		image:
-			"https://pixabay.com/fr/photos/performance-live-performance-concert-5468469/",
+			"https://cdn.pixabay.com/photo/2020/08/06/16/35/live-performance-5468469__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "The stage",
 		date: "printemps 2023, Dijon",
@@ -251,7 +254,7 @@ const dataMusique = [
 	{
 		id: "22",
 		image:
-			"https://pixabay.com/fr/photos/violon-volute-musique-concert-914174/",
+			"https://cdn.pixabay.com/photo/2015/08/30/11/43/violin-914174__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Blue violin",
 		date: "printemps 2023, Birmingham",
@@ -275,7 +278,7 @@ const dataMusique = [
 	{
 		id: "24",
 		image:
-			"https://pixabay.com/fr/photos/batterie-musique-tambouriner-1766888/",
+			"https://cdn.pixabay.com/photo/2016/10/24/18/33/drums-1766888__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Drum",
 		date: "été 2022, Barcelone",
@@ -287,7 +290,7 @@ const dataMusique = [
 	{
 		id: "25",
 		image:
-			"https://pixabay.com/fr/photos/batterie-musique-tambouriner-1766888/",
+			"https://cdn.pixabay.com/photo/2019/06/20/22/52/music-4288102__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Foule",
 		date: "été 2023, Military base Portland",
@@ -299,7 +302,7 @@ const dataMusique = [
 	{
 		id: "26",
 		image:
-			"https://pixabay.com/fr/photos/instruments-guitare-la-musique-4581110/",
+			"https://cdn.pixabay.com/photo/2019/10/27/08/55/instruments-4581110__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Guitar",
 		date: "été 2021, Dallas",
@@ -311,7 +314,7 @@ const dataMusique = [
 	{
 		id: "27",
 		image:
-			"https://pixabay.com/fr/photos/conducteur-andrea-vitello-concert-5157144/",
+			"https://cdn.pixabay.com/photo/2020/05/11/09/01/conductor-5157144__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Opera",
 		date: "été 2024, Nîmes",
@@ -322,7 +325,8 @@ const dataMusique = [
 	},
 	{
 		id: "28",
-		image: "https://pixabay.com/fr/photos/batterie-bassin-4865818/",
+		image:
+			"https://cdn.pixabay.com/photo/2020/02/20/20/35/drumset-4865818__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Drum 2",
 		date: "été 2024, Sheffield",
@@ -333,7 +337,8 @@ const dataMusique = [
 	},
 	{
 		id: "29",
-		image: "https://pixabay.com/fr/photos/guitariste-musique-concert-4914151/",
+		image:
+			"https://cdn.pixabay.com/photo/2020/03/09/01/29/guitarist-4914151_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "The Liquid man",
 		date: "été 2024, Sheffield",
@@ -344,7 +349,8 @@ const dataMusique = [
 	},
 	{
 		id: "30",
-		image: "https://pixabay.com/fr/photos/jazz-la-musique-instrument-4402082/",
+		image:
+			"https://cdn.pixabay.com/photo/2019/08/12/20/22/jazz-4402082_640.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Liam NRD",
 		date: "été 2024, Chalon sur saône",
@@ -355,7 +361,8 @@ const dataMusique = [
 	},
 	{
 		id: "31",
-		image: "https://pixabay.com/fr/photos/concert-la-musique-musicien-7460479/",
+		image:
+			"https://cdn.pixabay.com/photo/2022/09/17/08/57/concert-7460479__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Angela SPRING",
 		date: "été 2024, Chalon sur saône",
@@ -366,7 +373,7 @@ const dataMusique = [
 	},
 	{
 		id: "32",
-		image: "https://pixabay.com/fr/photos/laudio-table-de-mixage-9066/",
+		image: "https://cdn.pixabay.com/photo/2011/08/23/13/07/audio-9066__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "DJ",
 		date: "été 2024, Bronx",
@@ -377,7 +384,8 @@ const dataMusique = [
 	},
 	{
 		id: "33",
-		image: "https://pixabay.com/fr/photos/concert-couleurs-guitariste-604215/",
+		image:
+			"https://cdn.pixabay.com/photo/2015/01/19/16/50/concert-604215__340.jpg",
 		artist_name: "Liam NOVA",
 		name_work: "Black man",
 		date: "été 2019, Bronx",
