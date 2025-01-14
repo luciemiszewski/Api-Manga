@@ -13,6 +13,12 @@ app.get('/dataManga', (req, res) => {
     res.json(dataManga)
 })
 
+app.get('/dataManga/:id', (req, res) => {
+    const { id } = req.params
+    const manga = dataManga.find((element) => element.id === id)
+    res.json(manga)
+})
+
 app.listen(serverPort, () => {
     console.info("l'api est lancée")
 })
