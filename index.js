@@ -2,6 +2,9 @@ import express from "express";
 import dataManga from "./data/dataManga.js";
 import cors from "cors";
 import dataMusique from "./data/dataMusique.js";
+import dataDnD from "./data/dataDnD.js";
+import path from 'path';
+import { fileURLToPath } from 'url';
 
 const app = express();
 
@@ -22,6 +25,10 @@ app.get("/dataManga/:id", (req, res) => {
 
 app.get("/dataMusique", (req, res) => {
 	res.json(dataMusique);
+});
+
+app.get("/dataDnD", (req, res) => {
+	res.json(dataDnD);
 });
 
 app.listen(serverPort, () => {
