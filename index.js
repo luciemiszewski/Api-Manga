@@ -1,5 +1,6 @@
 import express from "express";
 import dataManga from "./data/dataManga.js";
+import dataGhibli from "./data/dataGhibli.js";
 import cors from "cors";
 
 const app = express();
