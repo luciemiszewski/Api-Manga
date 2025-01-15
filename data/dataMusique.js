@@ -9,7 +9,7 @@ const dataMusique = [
 		format: "paysage",
 		description: "",
 		size_frame: "70cm x 50cm",
-		price: "75 € €",
+		price: "75 €",
 	},
 	{
 		id: "2",
