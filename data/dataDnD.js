@@ -111,3 +111,4 @@ const dataDnD = [
     }
   ];
   
+  export default dataDnD;
