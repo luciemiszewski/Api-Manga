@@ -1,7 +1,7 @@
 const artworks = [
 	{
 		id: "1",
-		picture: "../images/Miya1.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya1.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Réunion Familiale",
 		date: "2023",
@@ -13,7 +13,7 @@ const artworks = [
 	},
 	{
 		id: "2",
-		picture: "../images/Miya2.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya2.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Jam Session Nocturne",
 		date: "2023",
@@ -25,7 +25,7 @@ const artworks = [
 	},
 	{
 		id: "3",
-		picture: "../images/Miya3.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya3.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Le Voyage Nocturne",
 		date: "2023",
@@ -36,7 +36,7 @@ const artworks = [
 	},
 	{
 		id: "4",
-		picture: "../images/Miya4.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya4.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Le Jardinier Céleste",
 		date: "2023",
@@ -48,7 +48,7 @@ const artworks = [
 	},
 	{
 		id: "5",
-		picture: "../images/Miya5.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya5.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Le Grand Oiseau Blanc",
 		date: "2023",
@@ -60,7 +60,7 @@ const artworks = [
 	},
 	{
 		id: "6",
-		picture: "../images/Miya6.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya6.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Nuit Pluvieuse au Village",
 		date: "2023",
@@ -72,7 +72,7 @@ const artworks = [
 	},
 	{
 		id: "7",
-		picture: "../images/Miya7.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya7.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "La Forêt Enchantée",
 		date: "2023",
@@ -84,7 +84,7 @@ const artworks = [
 	},
 	{
 		id: "8",
-		picture: "../images/Miya8.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya8.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Chats au Clair de Lune",
 		date: "2023",
@@ -96,7 +96,7 @@ const artworks = [
 	},
 	{
 		id: "9",
-		picture: "../images/Miya9.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya9.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Illustration Miyazaki 1",
 		date: "2023-01-01",
@@ -108,7 +108,7 @@ const artworks = [
 	},
 	{
 		id: "10",
-		picture: "../images/Miya10.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya10.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Illustration Miyazaki 2",
 		date: "2023-02-15",
@@ -120,7 +120,7 @@ const artworks = [
 	},
 	{
 		id: "11",
-		picture: "../images/Miya11.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya11.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Illustration Miyazaki 3",
 		date: "2023-03-10",
@@ -132,7 +132,7 @@ const artworks = [
 	},
 	{
 		id: "12",
-		picture: "../images/Miya12.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya12.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Illustration Miyazaki 4",
 		date: "2023-04-20",
@@ -144,7 +144,7 @@ const artworks = [
 	},
 	{
 		id: "13",
-		picture: "../images/Miya13.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya13.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "L'Aventure Latino-Américaine",
 		date: "2023",
@@ -156,7 +156,7 @@ const artworks = [
 	},
 	{
 		id: "14",
-		picture: "../images/Miya14.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya14.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Le Dragon et le Voyageur",
 		date: "2023",
@@ -168,7 +168,7 @@ const artworks = [
 	},
 	{
 		id: "15",
-		picture: "../images/Miya15.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya15.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "La Maison Enchantée",
 		date: "2023",
@@ -180,7 +180,7 @@ const artworks = [
 	},
 	{
 		id: "16",
-		picture: "../images/Miya16.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya16.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Miyazaki et ses Créations",
 		date: "2023",
@@ -192,7 +192,7 @@ const artworks = [
 	},
 	{
 		id: "17",
-		picture: "../images/Miya17.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya17.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Illustration Macabre",
 		date: "Inconnue",
@@ -204,7 +204,7 @@ const artworks = [
 	},
 	{
 		id: "18",
-		picture: "../images/Miya18.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya18.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Illustration de Paysage",
 		date: "Inconnue",
@@ -216,7 +216,7 @@ const artworks = [
 	},
 	{
 		id: "19",
-		picture: "../images/Miya19.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya19.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Illustration Fantastique",
 		date: "Inconnue",
@@ -228,7 +228,7 @@ const artworks = [
 	},
 	{
 		id: "20",
-		picture: "../images/Miya20.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya20.jpeg",
 		artistName: "Hayao Miyazaki",
 		nameWork: "Illustration de Groupe",
 		date: "Inconnue",
@@ -240,7 +240,7 @@ const artworks = [
 	},
 	{
 		id: "21",
-		picture: "../images/Miya21.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya21.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Portrait de Miyazaki",
 		date: "Inconnu",
@@ -252,7 +252,7 @@ const artworks = [
 	},
 	{
 		id: "22",
-		picture: "../images/Miya22.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya22.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Le Monde de Miyazaki",
 		date: "Inconnu",
@@ -264,7 +264,7 @@ const artworks = [
 	},
 	{
 		id: "23",
-		picture: "../images/Miya23.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya23.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Village de Miyazaki",
 		date: "Inconnu",
@@ -276,7 +276,7 @@ const artworks = [
 	},
 	{
 		id: "24",
-		picture: "../images/Miya24.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya24.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Les Enfants de Miyazaki",
 		date: "Inconnu",
@@ -288,7 +288,7 @@ const artworks = [
 	},
 	{
 		id: "25",
-		picture: "../images/Miya25.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya25.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Illustration de personnages fantastiques",
 		date: "Inconnue",
@@ -300,7 +300,7 @@ const artworks = [
 	},
 	{
 		id: "26",
-		picture: "../images/Miya26.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya26.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Hommage aux personnages de Miyazaki",
 		date: "Inconnue",
@@ -312,7 +312,7 @@ const artworks = [
 	},
 	{
 		id: "27",
-		picture: "../images/Miya27.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya27.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Scène de village traditionnel",
 		date: "Inconnue",
@@ -324,7 +324,7 @@ const artworks = [
 	},
 	{
 		id: "28",
-		picture: "../images/Miya28.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya28.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Voyage nocturne",
 		date: "Inconnue",
@@ -336,7 +336,7 @@ const artworks = [
 	},
 	{
 		id: "29",
-		picture: "../images/Miya29.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya29.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Le Monde de Miyazaki",
 		date: "2023",
@@ -348,7 +348,7 @@ const artworks = [
 	},
 	{
 		id: "30",
-		picture: "../images/Miya30.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya30.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Les Aventures de Miyazaki",
 		date: "2022",
@@ -360,7 +360,7 @@ const artworks = [
 	},
 	{
 		id: "31",
-		picture: "../images/Miya31.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya31.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "La Nature de Miyazaki",
 		date: "2021",
@@ -372,7 +372,7 @@ const artworks = [
 	},
 	{
 		id: "32",
-		picture: "../images/Miya32.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya32.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Le Festin de Miyazaki",
 		date: "2020",
@@ -384,7 +384,7 @@ const artworks = [
 	},
 	{
 		id: "33",
-		picture: "../images/Miya33.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya33.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Collage des personnages de Miyazaki",
 		date: "Inconnu",
@@ -396,7 +396,7 @@ const artworks = [
 	},
 	{
 		id: "34",
-		picture: "../images/Miya34.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya34.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Paysage avec Totoro et mont Fuji",
 		date: "Inconnu",
@@ -408,7 +408,7 @@ const artworks = [
 	},
 	{
 		id: "35",
-		picture: "../images/Miya35.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya35.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Le Voyage de Chiro",
 		date: "Inconnu",
@@ -420,7 +420,7 @@ const artworks = [
 	},
 	{
 		id: "36",
-		picture: "../images/Miya36.jpg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya36.jpg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Observation de la nature",
 		date: "Inconnu",
@@ -432,7 +432,7 @@ const artworks = [
 	},
 	{
 		id: "37",
-		picture: "../images/Miya37.jpg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya37.jpg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Portrait de Miyazaki",
 		date: "Inconnu",
@@ -444,7 +444,7 @@ const artworks = [
 	},
 	{
 		id: "38",
-		picture: "../images/Miya38.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya38.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Le Voyage de Chihiro",
 		date: "Inconnu",
@@ -456,7 +456,7 @@ const artworks = [
 	},
 	{
 		id: "39",
-		picture: "../images/Miya39.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya39.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Mon Voisin Totoro",
 		date: "Inconnu",
@@ -468,7 +468,7 @@ const artworks = [
 	},
 	{
 		id: "40",
-		picture: "../images/Miya40.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya40.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Princesse Mononoké",
 		date: "Inconnu",
@@ -480,7 +480,7 @@ const artworks = [
 	},
 	{
 		id: "41",
-		picture: "../images/Miya41.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya41.jpeg",
 		artist_name: "Artiste Inconnu",
 		name_work: "Village sous la lune",
 		date: "Inconnue",
@@ -492,7 +492,7 @@ const artworks = [
 	},
 	{
 		id: "42",
-		picture: "../images/Miya42.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya42.jpeg",
 		artist_name: "Artiste Inconnu",
 		name_work: "Explorateurs de la vallée",
 		date: "Inconnue",
@@ -504,7 +504,7 @@ const artworks = [
 	},
 	{
 		id: "43",
-		picture: "../images/Miya43.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya43.jpeg",
 		artist_name: "Artiste Inconnu",
 		name_work: "Le conteur et ses amis",
 		date: "Inconnue",
@@ -516,7 +516,7 @@ const artworks = [
 	},
 	{
 		id: "44",
-		picture: "../images/Miya44.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya44.jpeg",
 		artist_name: "Artiste Inconnu",
 		name_work: "L'aventure dans la forêt",
 		date: "Inconnue",
@@ -528,7 +528,7 @@ const artworks = [
 	},
 	{
 		id: "45",
-		picture: "../images/Miya45.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya45.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Le Voyage de Chihiro",
 		date: "2023",
@@ -540,7 +540,7 @@ const artworks = [
 	},
 	{
 		id: "46",
-		picture: "../images/Miya46.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya46.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Mon Voisin Totoro",
 		date: "2023",
@@ -552,7 +552,7 @@ const artworks = [
 	},
 	{
 		id: "47",
-		picture: "../images/Miya47.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya47.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Le Château dans le Ciel",
 		date: "2023",
@@ -564,7 +564,7 @@ const artworks = [
 	},
 	{
 		id: "48",
-		picture: "../images/Miya48.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya48.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Princesse Mononoké",
 		date: "2023",
@@ -576,7 +576,7 @@ const artworks = [
 	},
 	{
 		id: "49",
-		picture: "../images/Miya49.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya49.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Le Dragon et les Enfants",
 		date: "2023",
@@ -588,7 +588,7 @@ const artworks = [
 	},
 	{
 		id: "50",
-		picture: "../images/Miya50.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya50.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Le Voyage du Chat Noir",
 		date: "2023",
@@ -600,7 +600,7 @@ const artworks = [
 	},
 	{
 		id: "51",
-		picture: "../images/Miya51.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya51.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Le Voyageur et le Renard",
 		date: "2023",
@@ -612,7 +612,7 @@ const artworks = [
 	},
 	{
 		id: "52",
-		picture: "../images/Miya52.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya52.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Le Maître et ses Créations",
 		date: "2023",
@@ -624,7 +624,7 @@ const artworks = [
 	},
 	{
 		id: "53",
-		picture: "../images/Miya53.jpeg",
+		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya53.jpeg",
 		artist_name: "Hayao Miyazaki",
 		name_work: "Voyage dans les collines verdoyantes",
 		date: "2023",
