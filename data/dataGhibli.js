@@ -1,4 +1,4 @@
-const artworks = [
+const dataGhibli = [
 	{
 		id: "1",
 		picture: "https://manga-api-wcs.netlify.app/images/Ghibli/Miya1.jpeg",
@@ -635,3 +635,5 @@ const artworks = [
 			"Cette œuvre représente une scène paisible dans un paysage verdoyant, typique de l'univers enchanteur de Hayao Miyazaki. On y voit une jeune fille accompagnée d'un chat blanc, avec en arrière-plan des collines, des rivières et des éléments de la culture japonaise traditionnelle. Les détails minutieux et les couleurs vives ajoutent à la magie de cette illustration.",
 	},
 ];
+
+export default dataGhibli;
