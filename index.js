@@ -3,6 +3,8 @@ import dataManga from "./data/dataManga.js";
 import cors from "cors";
 import dataMusique from "./data/dataMusique.js";
 import dataDnD from "./data/dataDnD.js";
+import path from 'path';
+import { fileURLToPath } from 'url';
 
 const app = express();
 
