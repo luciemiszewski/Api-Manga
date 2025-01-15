@@ -2,6 +2,7 @@ import express from "express";
 import dataManga from "./data/dataManga.js";
 import dataGhibli from "./data/dataGhibli.js";
 import cors from "cors";
+import dataDnD from "./data/dataDnD.js";
 
 const app = express();
 
@@ -22,6 +23,10 @@ app.get("/dataManga/:id", (req, res) => {
 
 app.get("/dataGhibli", (req, res) => {
 	res.json(dataGhibli);
+});
+
+app.get("/dataDnD", (req, res) => {
+	res.json(dataDnD);
 });
 
 app.listen(serverPort, () => {
