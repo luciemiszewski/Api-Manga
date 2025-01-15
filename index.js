@@ -1,4 +1,5 @@
 import express from "express";
+import dataMusique from "./data/dataMusique.js";
 import dataManga from "./data/dataManga.js";
 import dataGhibli from "./data/dataGhibli.js";
 import cors from "cors";
@@ -19,6 +20,10 @@ app.get("/dataManga/:id", (req, res) => {
 	const { id } = req.params;
 	const manga = dataManga.find((element) => element.id === id);
 	res.json(manga);
+});
+
+app.get("/dataMusique", (req, res) => {
+	res.json(dataMusique);
 });
 
 app.get("/dataGhibli", (req, res) => {
