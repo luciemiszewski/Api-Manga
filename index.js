@@ -2,6 +2,7 @@ import express from "express";
 import dataManga from "./data/dataManga.js";
 import cors from "cors";
 import dataMusique from "./data/dataMusique.js";
+import dataMode from "./data/dataMode.js";
 
 const app = express();
 
@@ -23,7 +24,9 @@ app.get("/dataManga/:id", (req, res) => {
 app.get("/dataMusique", (req, res) => {
 	res.json(dataMusique);
 });
-
+app.get("/dataMode", (req, res) => {
+	res.json(dataMode);
+});
 app.listen(serverPort, () => {
 	console.info("l'api est lancée");
 });
