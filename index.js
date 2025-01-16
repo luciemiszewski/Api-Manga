@@ -1,10 +1,12 @@
 import express from "express";
 import dataMusique from "./data/dataMusique.js";
+import dataMode from "./data/dataMode.js";
+
 import dataManga from "./data/dataManga.js";
 import dataGhibli from "./data/dataGhibli.js";
 import cors from "cors";
 import dataDnD from "./data/dataDnD.js";
-
+import dataSport from "./data/dataSport.js";
 const app = express();
 
 const serverPort = 4242;
@@ -25,6 +27,9 @@ app.get("/dataManga/:id", (req, res) => {
 app.get("/dataMusique", (req, res) => {
 	res.json(dataMusique);
 });
+app.get("/dataMode", (req, res) => {
+	res.json(dataMode);
+});
 
 app.get("/dataGhibli", (req, res) => {
 	res.json(dataGhibli);
@@ -32,6 +37,10 @@ app.get("/dataGhibli", (req, res) => {
 
 app.get("/dataDnD", (req, res) => {
 	res.json(dataDnD);
+});
+
+app.get("/dataSport", (req, res) => {
+	res.json(dataSport);
 });
 
 app.listen(serverPort, () => {
