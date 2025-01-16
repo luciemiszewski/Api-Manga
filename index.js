@@ -1,9 +1,12 @@
 import express from "express";
-import dataManga from "./data/dataManga.js";
-import cors from "cors";
 import dataMusique from "./data/dataMusique.js";
 import dataMode from "./data/dataMode.js";
 
+import dataManga from "./data/dataManga.js";
+import dataGhibli from "./data/dataGhibli.js";
+import cors from "cors";
+import dataDnD from "./data/dataDnD.js";
+import dataSport from "./data/dataSport.js";
 const app = express();
 
 const serverPort = 4242;
@@ -27,6 +30,19 @@ app.get("/dataMusique", (req, res) => {
 app.get("/dataMode", (req, res) => {
 	res.json(dataMode);
 });
+
+app.get("/dataGhibli", (req, res) => {
+	res.json(dataGhibli);
+});
+
+app.get("/dataDnD", (req, res) => {
+	res.json(dataDnD);
+});
+
+app.get("/dataSport", (req, res) => {
+	res.json(dataSport);
+});
+
 app.listen(serverPort, () => {
 	console.info("l'api est lancée");
 });
