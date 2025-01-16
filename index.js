@@ -4,7 +4,7 @@ import dataManga from "./data/dataManga.js";
 import dataGhibli from "./data/dataGhibli.js";
 import cors from "cors";
 import dataDnD from "./data/dataDnD.js";
-import dataSport from "./data/dataSport.js"
+import dataSport from "./data/dataSport.js";
 const app = express();
 
 const serverPort = 4242;
