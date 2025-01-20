@@ -19,21 +19,21 @@ const dataManga = [
     },
     {
         id: 4,
-        nameWork: "Dragon Ball",
-        artistName: "Akira Toriyama",
-        image: "https://example.com/attack-on-titan.jpg"
+        nameWork: "Jujutsu Kaisen",
+        artistName: "Gege Akutami",
+        image: "https://i.pinimg.com/736x/98/43/4a/98434a5bb2a578abcfa2d2e393ee7108.jpg"
     },
     {
         id: 5,
-        nameWork: "Jujustu Kaisen",
-        artistName: "Gege Akutami",
-        image: "https://example.com/one-piece.jpg"
+        nameWork: "Hunter x Hunter",
+        artistName: "Yoshihiro Togashi",
+        image: "https://i.pinimg.com/736x/66/1e/11/661e11805f7b4df05e2fa1ce43d34728.jpg"
     },
     {
         id: 6,
         nameWork: "Demon Slayer",
         artistName: "Koyoharu Gotōge",
-        image: "https://example.com/one-piece.jpg"
+        image: "https://i.pinimg.com/736x/a4/c3/62/a4c362a50aea1e987136a9e489647a4d.jpg"
     }
 ];
 
