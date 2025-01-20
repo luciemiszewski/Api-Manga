@@ -18,8 +18,7 @@ const dataMode = [
 		name_work: "Robe plissée ceinturée",
 		date: "2025",
 		format: "",
-		description:
-			"Mousseline de soie- cape légère intégrée. Plis et fronces se confondent dans le volume aérien de Rome",
+		description:"Mousseline de soie- cape légère intégrée. Plis et fronces se confondent dans le volume aérien de Rome",
 		price: "15 000 €",
 	},
 	{
@@ -30,7 +29,7 @@ const dataMode = [
 		name_work: "Robe longue brodée",
 		date: "2025",
 		format: "",
-		description: "la robe féminine aux mille détails, avec son organza brodé.",
+		description:"la robe féminine aux mille détails, avec son organza brodé.",
 		price: "13 000 €",
 	},
 	{
@@ -41,7 +40,7 @@ const dataMode = [
 		name_work: "Robe longue",
 		date: "2025",
 		format: "",
-		description: "",
+		description:"Son audacieux décolleté est sublimé par un drapé finement structuré qui s’étire dans le dos pour former un nœud",
 		price: "19 000 €",
 	},
 	{
@@ -52,8 +51,7 @@ const dataMode = [
 		name_work: "Robe longue Perlé",
 		date: "2025",
 		format: "",
-		description:
-			"Ornée de strass et Cristaux, Bloom évoque le raffinement.  Un mélange de rouge vif, elle présente une coupe évasée.",
+		description:"Ornée de strass et Cristaux, Bloom évoque le raffinement. Un mélange de rouge vif, elle présente une coupe évasée.",
 		price: "25 000 €",
 	},
 	{
@@ -64,8 +62,7 @@ const dataMode = [
 		name_work: "Robe longue portefeuille",
 		date: "2025",
 		format: "",
-		description:
-			"Grâce ultime dans la robe Loden, qui conjugue poésie avec son drapé.",
+		description:"Grâce ultime dans la robe Loden, qui conjugue poésie avec son drapé.",
 		price: "16 000 €",
 	},
 	{
@@ -76,8 +73,7 @@ const dataMode = [
 		name_work: "",
 		date: "2025",
 		format: "",
-		description:
-			"Tous nos modèles sont confectionnés sur commande dans notre atelier parisien. Le prix indiqué correspond à une silhouette créée sur mesure. Contactez-nous pour le prix en semi-mesure.",
+		description:"Tous nos modèles sont confectionnés sur commande dans notre atelier parisien. Le prix indiqué correspond à une silhouette créée sur mesure. Contactez-nous pour le prix en semi-mesure.",
 		price: "9 000 €",
 	},
 	{
@@ -88,8 +84,7 @@ const dataMode = [
 		name_work: "",
 		date: "Eté-2023",
 		format: "",
-		description:
-			"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
+		description:"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
 		price: "7000 €",
 	},
 	{
@@ -100,8 +95,7 @@ const dataMode = [
 		name_work: "",
 		date: "Eté-2023",
 		format: "",
-		description:
-			"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
+		description:"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
 		price: "7000 €",
 	},
 	{
@@ -112,8 +106,7 @@ const dataMode = [
 		name_work: "",
 		date: "Eté-2023",
 		format: "",
-		description:
-			"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
+		description:"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
 		price: "7000 €",
 	},
 	{
@@ -124,8 +117,7 @@ const dataMode = [
 		name_work: "",
 		date: "Eté-2023",
 		format: "",
-		description:
-			"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
+		description:"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
 		price: "7000 €",
 	},
 	{
@@ -136,9 +128,7 @@ const dataMode = [
 		name_work: "",
 		date: "Eté-2023",
 		format: "",
-		description:
-			"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
-		size_frame: "70cm x 50cm",
+		description:"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
 		price: "7000 €",
 	},
 	{
@@ -149,8 +139,7 @@ const dataMode = [
 		name_work: "",
 		date: "Eté-2023",
 		format: "",
-		description:
-			"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
+		description:"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
 		price: "7000 €",
 	},
 	{
@@ -161,8 +150,7 @@ const dataMode = [
 		name_work: " ",
 		date: "2025",
 		format: "",
-		description:
-			" Florence magnifie la silhouette avec la fluidité de sa ligne. Son audacieux décolleté est sublimé par un drapé finement structuré qui s’étire dans le dos pour former un nœud.",
+		description:"Florence magnifie la silhouette avec la fluidité de sa ligne.",
 		price: "12 000 €",
 	},
 	{
@@ -173,8 +161,7 @@ const dataMode = [
 		name_work: "",
 		date: "2025",
 		format: "",
-		description:
-			"Délicat avec sa dentelle raffinée, la Robe a de sérieux arguments pour séduire...à compter par les épaules dénudées qu'il dévoile avec beaucoup de sensualité.",
+		description:"Délicat avec sa dentelle raffinée, la Robe a de sérieux arguments pour séduire...à compter par les épaules dénudées qu'il dévoile avec beaucoup de sensualité.",
 		price: " ",
 	},
 	{
@@ -185,8 +172,7 @@ const dataMode = [
 		name_work: "",
 		date: "2025",
 		format: "",
-		description:
-			"Alliant finesse et modernité, l  robe Livourne séduit par son asymétrie audacieuse et sa douce allure antique.",
+		description:"Alliant finesse et modernité, l  robe Livourne séduit par son asymétrie audacieuse et sa douce allure antique.",
 		price: " 9000 €",
 	},
 	{
@@ -197,9 +183,7 @@ const dataMode = [
 		name_work: "Nouvelle collection",
 		date: "2025",
 		format: "",
-		description: "Robe dos nu",
-		size_frame:
-			"Inspirée des années 40, notre robe Suffren est entièrement coupée dans un lumineux satin de soie. Sa taille est élégamment soulignée par une fine ceinture et le dos entièrement nue et orné de fines bretelles en satin également. ",
+		description: "Inspirée des années 40, notre robe Suffren est entièrement coupée dans un lumineux satin de soie. Sa taille est élégamment soulignée par une fine ceinture et le dos entièrement nue et orné de fines bretelles en satin également. ",
 		price: " 9000 €",
 	},
 	{
@@ -210,8 +194,7 @@ const dataMode = [
 		name_work: "L'Art & chez Dior",
 		date: "2025",
 		format: "",
-		description:
-			"Belle des belles, Iéna est faite pour être portée sous le feu des projecteurs.",
+		description:"Belle des belles, Iéna est faite pour être portée sous le feu des projecteurs.",
 		price: " 9000 €",
 	},
 	{
@@ -222,8 +205,7 @@ const dataMode = [
 		name_work: "Collection La Mariée",
 		date: "2025",
 		format: "",
-		description:
-			"Sublime pièce de notre collection 2024 ! Tout en drapé et en crêpe sablé ou crêpe lourde, elle est à la fois sophistiquée et romantique. Spectaculaire avec son grand dos nu et sa majestueuse traine, elle est également ornée  d’une fente sur le milieu devant de sa jupe volumineuse.",
+		description:"Sublime pièce de notre collection 2024 ! Tout en drapé et en crêpe sablé ou crêpe lourde, elle est à la fois sophistiquée et romantique. Spectaculaire avec son grand dos nu et sa majestueuse traine, elle est également ornée  d’une fente sur le milieu devant de sa jupe volumineuse.",
 		price: " 9000 €",
 	},
 	{
