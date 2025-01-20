@@ -6,7 +6,7 @@ const dataMode = [
 		artist_name: "WAGRAM",
 		name_work: "Robe longue",
 		date: "2025",
-		format: "",
+		format: "Carré",
 		description: "Dentelle de Calais rebrodée ",
 		price: "18 000 €",
 	},
@@ -17,8 +17,9 @@ const dataMode = [
 		artist_name: "ROME",
 		name_work: "Robe plissée ceinturée",
 		date: "2025",
-		format: "",
-		description:"Mousseline de soie- cape légère intégrée. Plis et fronces se confondent dans le volume aérien de Rome",
+		format: "Carré",
+		description:
+			"Mousseline de soie- cape légère intégrée. Plis et fronces se confondent dans le volume aérien de Rome",
 		price: "15 000 €",
 	},
 	{
@@ -28,8 +29,8 @@ const dataMode = [
 		artist_name: "ROBE MONCEAU",
 		name_work: "Robe longue brodée",
 		date: "2025",
-		format: "",
-		description:"la robe féminine aux mille détails, avec son organza brodé.",
+		format: "Carré",
+		description: "la robe féminine aux mille détails, avec son organza brodé.",
 		price: "13 000 €",
 	},
 	{
@@ -39,8 +40,9 @@ const dataMode = [
 		artist_name: "ROBE PARME",
 		name_work: "Robe longue",
 		date: "2025",
-		format: "",
-		description:"Son audacieux décolleté est sublimé par un drapé finement structuré qui s’étire dans le dos pour former un nœud",
+		format: "Carré",
+		description:
+			"Son audacieux décolleté est sublimé par un drapé finement structuré qui s’étire dans le dos pour former un nœud",
 		price: "19 000 €",
 	},
 	{
@@ -50,8 +52,9 @@ const dataMode = [
 		artist_name: "ROBE BLOOM",
 		name_work: "Robe longue Perlé",
 		date: "2025",
-		format: "",
-		description:"Ornée de strass et Cristaux, Bloom évoque le raffinement. Un mélange de rouge vif, elle présente une coupe évasée.",
+		format: "Carré",
+		description:
+			"Ornée de strass et Cristaux, Bloom évoque le raffinement. Un mélange de rouge vif, elle présente une coupe évasée.",
 		price: "25 000 €",
 	},
 	{
@@ -61,8 +64,9 @@ const dataMode = [
 		artist_name: "ROBE LODEN",
 		name_work: "Robe longue portefeuille",
 		date: "2025",
-		format: "",
-		description:"Grâce ultime dans la robe Loden, qui conjugue poésie avec son drapé.",
+		format: "Carré",
+		description:
+			"Grâce ultime dans la robe Loden, qui conjugue poésie avec son drapé.",
 		price: "16 000 €",
 	},
 	{
@@ -72,8 +76,9 @@ const dataMode = [
 		artist_name: "Collection- La Mariée ",
 		name_work: "",
 		date: "2025",
-		format: "",
-		description:"Tous nos modèles sont confectionnés sur commande dans notre atelier parisien. Le prix indiqué correspond à une silhouette créée sur mesure. Contactez-nous pour le prix en semi-mesure.",
+		format: "Carré",
+		description:
+			"Tous nos modèles sont confectionnés sur commande dans notre atelier parisien. Le prix indiqué correspond à une silhouette créée sur mesure. Contactez-nous pour le prix en semi-mesure.",
 		price: "9 000 €",
 	},
 	{
@@ -83,8 +88,9 @@ const dataMode = [
 		artist_name: "Collection Cosplay",
 		name_work: "",
 		date: "Eté-2023",
-		format: "",
-		description:"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
+		format: "Carré",
+		description:
+			"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
 		price: "7000 €",
 	},
 	{
@@ -94,8 +100,9 @@ const dataMode = [
 		artist_name: "Collection Cosplay",
 		name_work: "",
 		date: "Eté-2023",
-		format: "",
-		description:"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
+		format: "Carré",
+		description:
+			"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
 		price: "7000 €",
 	},
 	{
@@ -105,8 +112,9 @@ const dataMode = [
 		artist_name: "Collection Cosplay",
 		name_work: "",
 		date: "Eté-2023",
-		format: "",
-		description:"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
+		format: "Carré",
+		description:
+			"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
 		price: "7000 €",
 	},
 	{
@@ -116,8 +124,9 @@ const dataMode = [
 		artist_name: "Collection Cosplay",
 		name_work: "",
 		date: "Eté-2023",
-		format: "",
-		description:"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
+		format: "Carré",
+		description:
+			"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
 		price: "7000 €",
 	},
 	{
@@ -127,8 +136,9 @@ const dataMode = [
 		artist_name: "Collection Cosplay",
 		name_work: "",
 		date: "Eté-2023",
-		format: "",
-		description:"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
+		format: "Carré",
+		description:
+			"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
 		price: "7000 €",
 	},
 	{
@@ -138,8 +148,9 @@ const dataMode = [
 		artist_name: "Collection Cosplay ",
 		name_work: "",
 		date: "Eté-2023",
-		format: "",
-		description:"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
+		format: "Carré",
+		description:
+			"Défilé- Printemps- Eté - inspiré des mangas. Style, authenticité et passion au rendez-vous !",
 		price: "7000 €",
 	},
 	{
@@ -149,8 +160,9 @@ const dataMode = [
 		artist_name: "ROBE FLORENCE",
 		name_work: " ",
 		date: "2025",
-		format: "",
-		description:"Florence magnifie la silhouette avec la fluidité de sa ligne.",
+		format: "Carré",
+		description:
+			"Florence magnifie la silhouette avec la fluidité de sa ligne.",
 		price: "12 000 €",
 	},
 	{
@@ -160,8 +172,9 @@ const dataMode = [
 		artist_name: "Collection la Mariée",
 		name_work: "",
 		date: "2025",
-		format: "",
-		description:"Délicat avec sa dentelle raffinée, la Robe a de sérieux arguments pour séduire...à compter par les épaules dénudées qu'il dévoile avec beaucoup de sensualité.",
+		format: "Carré",
+		description:
+			"Délicat avec sa dentelle raffinée, la Robe a de sérieux arguments pour séduire...à compter par les épaules dénudées qu'il dévoile avec beaucoup de sensualité.",
 		price: " ",
 	},
 	{
@@ -171,8 +184,9 @@ const dataMode = [
 		artist_name: "Livourne",
 		name_work: "",
 		date: "2025",
-		format: "",
-		description:"Alliant finesse et modernité, l  robe Livourne séduit par son asymétrie audacieuse et sa douce allure antique.",
+		format: "Carré",
+		description:
+			"Alliant finesse et modernité, l  robe Livourne séduit par son asymétrie audacieuse et sa douce allure antique.",
 		price: " 9000 €",
 	},
 	{
@@ -182,8 +196,9 @@ const dataMode = [
 		artist_name: " SUFFREN",
 		name_work: "Nouvelle collection",
 		date: "2025",
-		format: "",
-		description: "Inspirée des années 40, notre robe Suffren est entièrement coupée dans un lumineux satin de soie. Sa taille est élégamment soulignée par une fine ceinture et le dos entièrement nue et orné de fines bretelles en satin également. ",
+		format: "Carré",
+		description:
+			"Inspirée des années 40, notre robe Suffren est entièrement coupée dans un lumineux satin de soie. Sa taille est élégamment soulignée par une fine ceinture et le dos entièrement nue et orné de fines bretelles en satin également. ",
 		price: " 9000 €",
 	},
 	{
@@ -193,8 +208,9 @@ const dataMode = [
 		artist_name: "ROBE BELLE",
 		name_work: "L'Art & chez Dior",
 		date: "2025",
-		format: "",
-		description:"Belle des belles, Iéna est faite pour être portée sous le feu des projecteurs.",
+		format: "Carré",
+		description:
+			"Belle des belles, Iéna est faite pour être portée sous le feu des projecteurs.",
 		price: " 9000 €",
 	},
 	{
@@ -204,8 +220,9 @@ const dataMode = [
 		artist_name: "ROBE JOURDAN",
 		name_work: "Collection La Mariée",
 		date: "2025",
-		format: "",
-		description:"Sublime pièce de notre collection 2024 ! Tout en drapé et en crêpe sablé ou crêpe lourde, elle est à la fois sophistiquée et romantique. Spectaculaire avec son grand dos nu et sa majestueuse traine, elle est également ornée  d’une fente sur le milieu devant de sa jupe volumineuse.",
+		format: "Carré",
+		description:
+			"Sublime pièce de notre collection 2024 ! Tout en drapé et en crêpe sablé ou crêpe lourde, elle est à la fois sophistiquée et romantique. Spectaculaire avec son grand dos nu et sa majestueuse traine, elle est également ornée  d’une fente sur le milieu devant de sa jupe volumineuse.",
 		price: " 9000 €",
 	},
 	{
@@ -215,7 +232,7 @@ const dataMode = [
 		artist_name: "ROBE ELLIS",
 		name_work: "",
 		date: "2025",
-		format: "",
+		format: "Carré",
 		description: "La captivante Trévise semble être venue d'une autre ère.",
 		price: "30 000 €",
 	},
