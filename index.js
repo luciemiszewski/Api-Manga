@@ -9,7 +9,7 @@ import dataDnD from "./data/dataDnD.js";
 import dataSport from "./data/dataSport.js";
 const app = express();
 const corsOptions = {
-	origin:"http://localhost:3000/",
+	origin:"http://localhost:3000",
 	allowedHeaders:["Content-Type  Authorization"],
 	methods:["GET"]
 };
