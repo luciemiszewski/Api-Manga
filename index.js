@@ -6,12 +6,15 @@ import cors from "cors";
 import dataDnD from "./data/dataDnD.js";
 
 const app = express();
-
+const corsOptions = {
+	origin:"http://localhost:3000/",
+	allowedHeaders:["Content-Type  Authorization"],
+	methods:["GET"]
+};
 const serverPort = 4242;
 
-app.use(cors());
+app.use(cors(corsOptions));
 app.use(express.json());
-
 app.get("/dataManga", (req, res) => {
 	res.json(dataManga);
 });
