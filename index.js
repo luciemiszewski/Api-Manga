@@ -49,7 +49,7 @@ app.get("/dataSport", (req, res) => {
 app.get('/images/DnD/:imageName', (req, res) => {
 	const { imageName } = req.params;
 	console.log(req.params);
-	const imageDirectory = path.join(__dirname, 'public/images/DnD/'); 
+	const imageDirectory = path.join(__dirname, 'public/images/DnD'); 
 	
 	const imagePath = path.join(imageDirectory, imageName);
 	console.log("fetched:", imagePath);
