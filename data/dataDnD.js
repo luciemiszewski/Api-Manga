@@ -24,7 +24,7 @@ const dataDnD = [
     {
       id: "3",
       title: "Old Carnival wagon",
-      picture: "https://manga-api-wcs.netlify.app/images/DnD//old-carnival-wagon.jpg",
+      picture: "https://manga-api-wcs.netlify.app/images/DnD/old-carnival-wagon.jpg",
       date: "2023",
       format: "Illustration numérique",
       size_frame: "60x60 cm",
@@ -35,7 +35,7 @@ const dataDnD = [
     {
       id: "4",
       title: "Creeping hut",
-      picture: "https://manga-api-wcs.netlify.app/images/DnD//creeping-hut.jpg",
+      picture: "https://manga-api-wcs.netlify.app/images/DnD/creeping-hut.jpg",
       date: "2023",
       format: "Illustration numérique",
       size_frame: "60x60 cm",
@@ -46,7 +46,7 @@ const dataDnD = [
     {
       id: "5",
       title: "Longship final docking",
-      picture: "https://manga-api-wcs.netlify.app/images/DnD//longship-final.jpg",
+      picture: "https://manga-api-wcs.netlify.app/images/DnD/longship-final.jpg",
       date: "2023",
       format: "Illustration numérique",
       size_frame: "60x60 cm",
@@ -57,7 +57,7 @@ const dataDnD = [
     {
       id: "6",
       title: "Mirran and Nym",
-      picture: "https://manga-api-wcs.netlify.app/images/DnD//crab-organ.jpg",
+      picture: "https://manga-api-wcs.netlify.app/images/DnD/crab-organ.jpg",
       date: "2023",
       format: "Illustration numérique",
       size_frame: "60x60 cm",
@@ -68,7 +68,7 @@ const dataDnD = [
     {
       id: "7",
       title: "dungeon in the outlands ?",
-      picture: "https://manga-api-wcs.netlify.app/images/DnD//greg-rutkowski-1.jpg",
+      picture: "https://manga-api-wcs.netlify.app/images/DnD/greg-rutkowski-1.jpg",
       date: "2023",
       format: "Illustration numérique",
       size_frame: "60x60 cm",
@@ -79,7 +79,7 @@ const dataDnD = [
     {
       id: "8",
       title: "Dragon ? dragon !",
-      picture: "https://manga-api-wcs.netlify.app/images/DnD//greg-rutkowski-2.jpg",
+      picture: "https://manga-api-wcs.netlify.app/images/DnD/greg-rutkowski-2.jpg",
       date: "2023",
       format: "Illustration numérique",
       size_frame: "60x60 cm",
@@ -90,7 +90,7 @@ const dataDnD = [
     {
       id: "9",
       title: "Creepy chickens of death",
-      picture: "https://manga-api-wcs.netlify.app/images/DnD//greg-rutkowski-3.jpg",
+      picture: "https://manga-api-wcs.netlify.app/images/DnD/greg-rutkowski-3.jpg",
       date: "2023",
       format: "Illustration numérique",
       size_frame: "60x60 cm",
@@ -101,7 +101,7 @@ const dataDnD = [
     {
       id: "10",
       title: "Blue dragon",
-      picture: "https://manga-api-wcs.netlify.app/images/DnD//greg-rutkowski-4.jpg",
+      picture: "https://manga-api-wcs.netlify.app/images/DnD/greg-rutkowski-4.jpg",
       date: "2023",
       format: "Illustration numérique",
       size_frame: "60x60 cm",
