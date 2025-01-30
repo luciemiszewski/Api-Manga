@@ -8,12 +8,10 @@ import cors from "cors";
 import dataDnD from "./data/dataDnD.js";
 import dataSport from "./data/dataSport.js";
 const app = express();
-
 const serverPort = 4242;
 
 app.use(cors());
 app.use(express.json());
-
 app.get("/dataManga", (req, res) => {
 	res.json(dataManga);
 });
