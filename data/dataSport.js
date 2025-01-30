@@ -1,58 +1,10 @@
 const dataSport = [
 	{
-		id: "40",
-		picture:
-			"https://images.pexels.com/photos/30053699/pexels-photo-30053699.jpeg",
-		artist: "Meshack Emmanuel Kazanshyi",
-		title: "Carl Doe ",
-		date: "2023",
-		format: "Photographie",
-		size_frame: "4000x6000 pixels",
-		price: "200 €",
-		description: "Portrait de Carl DOE.",
-	},
-	{
-		id: "37",
-		picture:
-			"https://images.pexels.com/photos/30057403/pexels-photo-30057403/free-photo-of-portrait-creatif-d-une-cosplayeuse-en-costume-rouge.jpeg",
-		artist: "Israyosoy S.",
-		title: "Marina Suarez",
-		date: "2024",
-		format: "Photographie",
-		size_frame: "4000 x 6000 px",
-		price: "250 €",
-		description: "Portrait de Marina Suarez",
-	},
-	{
-		id: "33",
-		picture:
-			"https://images.pexels.com/photos/30098572/pexels-photo-30098572.jpeg",
-		artist: "",
-		title: "David Sanchez ",
-		date: "2025",
-		format: "Photographie",
-		size_frame: "7008 x 4672 pixels",
-		price: "200 €",
-		description: "Portrait de David Sanchez",
-	},
-	{
-		id: "32",
-		picture:
-			"https://images.pexels.com/photos/30048832/pexels-photo-30048832/free-photo-of-art-abstrait-fluide-vert-et-gris-tourbillonnant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-		artist: "Landiva Weber",
-		title: "Onde de fumée",
-		date: "2024",
-		format: "Photographie",
-		size_frame: "3888 x 2592 pixels",
-		price: "300 €",
-		description: "Art Abstrait",
-	},
-	{
 		id: "24",
 		picture:
 			"https://images.pexels.com/photos/1654486/pexels-photo-1654486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Guy Kawasaki",
-		title: "Surfer Avec Son Chien De Surfeur Surfer",
+		title: "Surfer Avec Son Chien",
 		date: "2018",
 		format: "Photographie",
 		size_frame: "4065 x 2710 pixels",
@@ -76,19 +28,19 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/20273679/pexels-photo-20273679/free-photo-of-homme-sauter-desert-sport.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Dionisio Castigotivane",
-		title: "",
+		title: "Salto",
 		date: "2024",
 		format: "Photographie",
 		size_frame: "3648 x 5472 pixels",
 		price: " 47 €",
-		description: "Salto d'un enfant du Mozambique",
+		description: "Salto enfant du Mozambique",
 	},
 	{
 		id: "8",
 		picture:
 			"https://images.pexels.com/photos/30098562/pexels-photo-30098562/free-photo-of-un-spectaculaire-match-de-lucha-libre-dans-l-arene.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Juan Trevilla",
-		title: "Un Spectaculaire Match De Lucha Libre Dans L'arène",
+		title: "Lucha Libre",
 		date: "2025",
 		format: "Photographie",
 		size_frame: "7008 x 4672 pixels",
@@ -100,7 +52,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/30111147/pexels-photo-30111147/free-photo-of-aventure-de-kitesurf-dans-les-eaux-d-exmouth.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Matthew Duriez",
-		title: "Aventure De Kitesurf Dans Les Eaux D'exmouth",
+		title: "Kitesurf Dans Les Eaux D'Exmouth",
 		date: "2025",
 		format: "Photographie",
 		size_frame: "5464 x 8192 pixels",
@@ -112,7 +64,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/1088160/pexels-photo-1088160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Arin Turkay",
-		title: "Terrain De Sport Rouge Et Vert ",
+		title: "Terrain Basket ",
 		date: "2018",
 		format: "Photographie",
 		size_frame: "2447 x 2447 pixels",
@@ -124,7 +76,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/7899560/pexels-photo-7899560.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Alesia Kozik",
-		title: "",
+		title: "Surf Sun",
 		date: "2023",
 		format: "Photographie",
 		size_frame: "3000 x 4500 pixels",
@@ -148,7 +100,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/3248592/pexels-photo-3248592.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Suzy Hazelwood",
-		title: "Photo En Niveaux De Gris D'hommes En Lames De Ski ",
+		title: " Lames De Ski ",
 		date: "2019",
 		format: "Photographie",
 		size_frame: "3448 x 2390 pixels",
@@ -173,7 +125,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/16778412/pexels-photo-16778412/free-photo-of-lumineux-leger-noir-et-blanc-art.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Connor McManus",
-		title: " ",
+		title: "Court Art ",
 		date: "2023",
 		format: "Photographie",
 		size_frame: "5152 x 7728 pixels",
@@ -197,7 +149,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/17830997/pexels-photo-17830997/free-photo-of-fire-island-rencontre-avec-l-ocean.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Andras Stefuca",
-		title: "Fire Island (Rencontre Avec L'océan)",
+		title: "Fire Island ",
 		date: "2023",
 		format: "Photographie",
 		size_frame: "5264 x 3509 pixels",
@@ -209,7 +161,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/10876359/pexels-photo-10876359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Todd Trapani",
-		title: "",
+		title: "Saut à Ski",
 		date: "2022",
 		format: "Photographie",
 		size_frame: "10190 x 15285 pixels",
@@ -233,7 +185,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/29944200/pexels-photo-29944200/free-photo-of-statue-emblematique-de-michael-jordan-au-united-center.jpeg",
 		artist: "Willian Justen de Vasconcellos",
-		title: " Statue Emblématique De Michael Jordan Au United Center",
+		title: " Statue Michael Jordan ",
 		date: "2024",
 		format: "Photographie",
 		size_frame: "3563 x 5472 pixels",
@@ -245,7 +197,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/29446323/pexels-photo-29446323.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Mario spencer",
-		title: "",
+		title: "Statue Footbaleur",
 		date: "2024",
 		format: "Photographie",
 		size_frame: "6180 x 4120 pixels",
@@ -257,7 +209,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/6599549/pexels-photo-6599549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Tima Miroshnichenko",
-		title: " ",
+		title: " Jeux d'échecs ",
 		date: "2021",
 		format: "Photographie",
 		size_frame: "6000 x 4000 pixels",
@@ -269,7 +221,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/4327830/pexels-photo-4327830.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Jess Loiterton",
-		title: " ",
+		title: " Corp immergé ",
 		date: "2020",
 		format: "Photographie",
 		size_frame: "3018 x 3772 pixels",
@@ -281,7 +233,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/13947313/pexels-photo-13947313.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Edward Eyer",
-		title: "",
+		title: "Plongeon",
 		date: "2022",
 		format: "Photographie",
 		size_frame: "3648 x 5472 pixels",
@@ -293,7 +245,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/1045534/pexels-photo-1045534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Cátia Matos",
-		title: " Allen Iverson De Sixers Graffiti Wall",
+		title: " Allen Iverson's Graff.",
 		date: "2018",
 		format: "Photographie",
 		size_frame: "5527 x 3685 pixels",
@@ -305,7 +257,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/2264226/pexels-photo-2264226.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Giovanni Calia",
-		title: "Photographie En Contre Plongée Du Panier De Basket Rouge Et Gris",
+		title: "Panier de Fumée ",
 		date: "2019",
 		format: "Photographie",
 		size_frame: "4724 x 4724 pixels",
@@ -317,7 +269,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/3551237/pexels-photo-3551237.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Aleksey Kuprikov",
-		title: "Personne Posant à Travers La Cascade",
+		title: "La Cascade",
 		date: "2020",
 		format: "Photographie",
 		size_frame: "300 x 300 pixels",
@@ -330,7 +282,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/1701202/pexels-photo-1701202.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Yogendra Singh",
-		title: "Homme Portant Un Jean Bleu Faisant Spin Pirouette",
+		title: "Spin Pirouette",
 		date: "2018",
 		format: "Photographie",
 		size_frame: "5184 x 3456 pixels",
@@ -342,7 +294,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/27644304/pexels-photo-27644304/free-photo-of-noir-et-blanc-gens-personnes-individus.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Shady Elfaham",
-		title: " ",
+		title: " Couple Cascadeur ",
 		date: "2024",
 		format: "Photographie",
 		size_frame: "200 x 400 pixels",
@@ -355,8 +307,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/802861/pexels-photo-802861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Martin Damboldt",
-		title:
-			"Photo En Niveaux De Gris D'un Groupe De Chevaux Avec Chariot Roulant Sur Un Plan D'eau ",
+		title: " Chevaux Avec Chariot Roulant ",
 		date: "2018",
 		format: "Photographie",
 		size_frame: "3589 x 2389pixels",
@@ -368,7 +319,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/238636/pexels-photo-238636.jpeg?auto=compress&cs=tinysrgb&w=400",
 		artist: "Flo Maderebner",
-		title: "Homme à Genoux Sur Un Ring De Boxe ",
+		title: " Ring De Boxe ",
 		date: "2016",
 		format: "Photographie",
 		size_frame: "2734 x 1536 pixels",
@@ -380,7 +331,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/816129/pexels-photo-816129.jpeg?auto=compress&cs=tinysrgb&w=400",
 		artist: "Huie Dinwiddie",
-		title: "Photographie En Niveaux De Gris Du Bâtiment",
+		title: " Bâtiment ",
 		date: "2018",
 		format: "Photographie",
 		size_frame: "4000 x 6000 pixels",
@@ -392,7 +343,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/9302141/pexels-photo-9302141.jpeg?auto=compress&cs=tinysrgb&w=400",
 		artist: "Alexa Popovich",
-		title: "Les Rivaux Se Battent Sur Le Ring",
+		title: "Les Rivaux sur le ring",
 		date: "2021",
 		format: "Photographie",
 		size_frame: "3464 x 3464 pixels",
@@ -404,18 +355,18 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/7936292/pexels-photo-7936292.jpeg?auto=compress&cs=tinysrgb&w=400",
 		artist: "Tima Miroshnichenko",
-		title: "",
+		title: " Bmx ",
 		format: "Photographie",
 		size_frame: "5868 x 3912 pixels",
 		price: "50 €",
-		description: "Bmx",
+		description: " Bmx ",
 	},
 	{
 		id: "35",
 		picture:
 			"https://images.pexels.com/photos/6703042/pexels-photo-6703042.jpeg?auto=compress&cs=tinysrgb&w=400",
 		artist: "Yan Krukau",
-		title: "",
+		title: "Yoga maison",
 		date: "2021",
 		format: "Photographie",
 		size_frame: "6000 x 4000 pixels",
@@ -439,30 +390,20 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/7045431/pexels-photo-7045431.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "RDNE Stock project",
-		title: "",
+		title: " Kata ",
 		date: "2021",
 		format: "Photographie",
 		size_frame: "3121 x 4681 pixels",
 		price: "200 €",
-		description: "Kata ",
+		description: " Kata ",
 	},
-	{
-		id: "39",
-		picture: "https://manga-api-wcs.netlify.app/images/Sport/Olympic-art.png",
-		artist: "Leonardo AI",
-		title: "",
-		date: "2025",
-		format: "Image IA ",
-		size_frame: "1472 x 832 pixels",
-		price: "0 €",
-		description: "Représentation artistique olympique",
-	},
+
 	{
 		id: "1",
 		picture:
 			"https://manga-api-wcs.netlify.app/images/Sport/Nageuse-1678307_1280.jpg",
-		artist: "",
-		title: "",
+		artist: "Diane Korgios",
+		title: "Une nageuse dans l'asphalte",
 		date: "",
 		format: "Image",
 		size_frame: "1280 x 766 pixels",
