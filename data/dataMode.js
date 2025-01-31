@@ -8,7 +8,7 @@ const dataMode = [
 		date: "2025",
 		format: "Carré",
 		description: "Dentelle de Calais rebrodée ",
-		price: "18 000 €",
+		price: "18000 €",
 	},
 	{
 		id: "2",
@@ -20,7 +20,7 @@ const dataMode = [
 		format: "Carré",
 		description:
 			"Mousseline de soie- cape intégrée",
-		price: "15 000 €",
+		price: "15000 €",
 	},
 	{
 		id: "3",
@@ -31,7 +31,7 @@ const dataMode = [
 		date: "2025",
 		format: "Carré",
 		description: "la robe féminine aux mille détails.",
-		price: "13 000 €",
+		price: "13000 €",
 	},
 	{
 		id: "4",
@@ -42,8 +42,8 @@ const dataMode = [
 		date: "2025",
 		format: "Carré",
 		description:
-			"PARME est sublimée par un drapé finement structuré.",
-		price: "19 000 €",
+			"PARME est sublimée par un drapé.",
+		price: "19000 €",
 	},
 	{
 		id: "5",
@@ -55,7 +55,7 @@ const dataMode = [
 		format: "Carré",
 		description:
 			"Bloom évoque le raffinement.",
-		price: "25 000 €",
+		price: "25000 €",
 	},
 	{
 		id: "6",
@@ -67,7 +67,7 @@ const dataMode = [
 		format: "Carré",
 		description:
 			"Grâce ultime dans la robe Loden.",
-		price: "16 000 €",
+		price: "16000 €",
 	},
 	{
 		id: "7",
@@ -79,7 +79,7 @@ const dataMode = [
 		format: "Carré",
 		description:
 			"Le prix indiqué correspond à du sur mesure.",
-		price: "9 000 €",
+		price: "9000 €",
 	},
 	{
 		id: "8",
@@ -162,7 +162,7 @@ const dataMode = [
 		format: "Carré",
 		description:
 			"Florence magnifie la silhouette avec la fluidité.",
-		price: "12 000 €",
+		price: "12000 €",
 	},
 	{
 		id: "15",
@@ -174,7 +174,7 @@ const dataMode = [
 		format: "Carré",
 		description:
 			"Délicat avec sa dentelle raffinée.",
-		price: "11 000 € ",
+		price: "11000 € ",
 	},
 	{
 		id: "16",
