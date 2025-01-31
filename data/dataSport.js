@@ -52,7 +52,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/30111147/pexels-photo-30111147/free-photo-of-aventure-de-kitesurf-dans-les-eaux-d-exmouth.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Matthew Duriez",
-		title: "Kitesurf Dans Les Eaux D'Exmouth",
+		title: "Kitesurf à Exmouth",
 		date: "2025",
 		format: "Photographie",
 		size_frame: "5464 x 8192 pixels",
@@ -112,7 +112,7 @@ const dataSport = [
 		picture:
 			"https://images.pexels.com/photos/15470774/pexels-photo-15470774/free-photo-of-course-de-chevaux-traditionnelle.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
 		artist: "Moussa Idrissi",
-		title: "Course De Chevaux Traditionnelle",
+		title: "Course De Chevaux",
 		date: "2014",
 		format: "Photographie",
 		size_frame: "200 x 400 pixels",
