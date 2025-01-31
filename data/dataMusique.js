@@ -405,7 +405,7 @@ const dataMusique = [
 	{
 		id: "32",
 		picture:
-			"https://cdn.pixabay.com/photo/2011/08/23/13/07/audio-9066__340.jpg",
+			"	",
 		artist: "Liam NOVA",
 		title: "DJ",
 		date: "Eté 2024",
